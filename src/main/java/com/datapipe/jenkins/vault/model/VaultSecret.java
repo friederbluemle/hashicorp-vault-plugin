@@ -32,7 +32,7 @@ import java.util.List;
 
 /**
  * Represents a Vault secret.
- * 
+ *
  * @author Peter Tierno {@literal <}ptierno{@literal @}datapipe.com{@literal >}
  */
 public class VaultSecret extends AbstractDescribableImpl<VaultSecret> {

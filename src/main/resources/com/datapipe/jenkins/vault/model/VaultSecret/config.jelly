@@ -4,15 +4,15 @@
   <f:entry title="Path" field="path">
     <f:textbox />
   </f:entry>
-  
+
   <f:entry>
     <f:repeatableProperty field="secretValues" minimum="1" add="Add a key/value pair"></f:repeatableProperty>
   </f:entry>
-  
+
   <f:entry title="">
     <div align="right">
       <f:repeatableDeleteButton />
     </div>
   </f:entry>
-  
+
 </j:jelly>
