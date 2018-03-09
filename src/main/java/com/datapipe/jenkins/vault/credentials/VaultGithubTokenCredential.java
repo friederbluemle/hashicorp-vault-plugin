@@ -48,7 +48,7 @@ public class VaultGithubTokenCredential extends BaseStandardCredentials implemen
     public static class DescriptorImpl extends BaseStandardCredentialsDescriptor {
         @Override
         public String getDisplayName() {
-            return "Vault Github Token Credential";
+            return "Vault GitHub Token Credential";
         }
     }
 }
